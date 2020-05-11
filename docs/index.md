@@ -1,6 +1,7 @@
 ---
 title: FineMe. Dein ultimatives Gesundheits- und Fitnesstool
 ---
+![photo](https://ibb.co/y0j4wF2){:style='width:100px;'}
 ## Vision
 https://github.com/dhbw-de/FineMe/wiki/Vision
 ## Personas
