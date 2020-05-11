@@ -11,6 +11,9 @@ https://github.com/dhbw-de/FineMe/wiki/Personas
 https://github.com/dhbw-de/FineMe/wiki/Storys
 ## Customer Experience Journey
 https://github.com/dhbw-de/FineMe/projects/1
+## Innovatives Produkt
+![](https://i.ibb.co/qjwrXz6/Att-FD6-E-tmp.png)
+Einzigartige und innovative Funktionsweise und Handhabung.
 
 ---
 ---
