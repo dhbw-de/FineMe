@@ -1,15 +1,17 @@
 ---
-title: E-Surance
+title: FineMe. Dein ultimatives Gesundheits- und Fitnesstool
 ---
 ## Vision
-https://github.com/dhbw-de/E-Surance/wiki/Vision
+https://github.com/dhbw-de/FineMe/wiki/Vision
 ## Personas
-https://github.com/dhbw-de/E-Surance/wiki/Personas---Stories
+https://github.com/dhbw-de/FineMe/wiki/Personas
+## Storys
+https://github.com/dhbw-de/FineMe/wiki/Storys
 ## Customer Experience Journey
-https://github.com/dhbw-de/E-Surance/projects/1
+https://github.com/dhbw-de/FineMe/projects/1
 
 ---
 ---
 
 ## Gruppenmitglieder
-Juliana Herzog, Andreas Späth, Tim Geweniger, Yannik Haug
+Gloria Bauer, Paul Gerbes, Marvin Kaupert, Ines Kirstein, Jan-Hendrik Hübner, Timo Schäfer, Simon Wodtke, Leon Zaucker
